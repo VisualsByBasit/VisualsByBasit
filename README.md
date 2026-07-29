@@ -24,8 +24,8 @@ AI Engineer • Full Stack Developer • UI/UX Designer
 - Figma
 - Canva
 - Three.JS
-- Illustrator
-- Photoshop
+- Adobe Illustrator
+- Adobe Photoshop
 - HTML
 
 ---
