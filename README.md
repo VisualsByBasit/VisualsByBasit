@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hey, I'm Abdul Basit
 
-<!--
-**VisualsByBasit/VisualsByBasit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer • Full Stack Developer • UI/UX Designer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🤖 Building AI-powered products
+- 💻 Full Stack Web Developer
+- 🎨 Passionate about futuristic UI/UX
+- 🌍 Based in Pakistan
+
+---
+
+## 🛠️ Tech Stack
+
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- Tailwind CSS
+- Node.js
+- Figma
+- Canva
+- Three.JS
+- Illustrator
+- Photoshop
+- 
+
+---
+
+## 📫 Connect
+
+- Portfolio: Coming Soon
+- LinkedIn: https://www.linkedin.com/in/abdul-basit-a36b25385/
