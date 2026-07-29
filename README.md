@@ -32,5 +32,6 @@ AI Engineer • Full Stack Developer • UI/UX Designer • Creative Designer
 
 ## 📫 Connect
 
-- Portfolio: Coming Soon
-- LinkedIn: https://www.linkedin.com/in/abdul-basit-a36b25385/
+- 🌐 Portfolio: Coming Soon
+- 💼 LinkedIn: https://www.linkedin.com/in/abdul-basit-a36b25385/
+- 📧 Email: abdulbasitso019@gmail.com
