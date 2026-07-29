@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Abdul Basit
 
-AI Engineer • Full Stack Developer • UI/UX Designer
+AI Engineer • Full Stack Developer • UI/UX Designer • Creative Designer
 
 ---
 
