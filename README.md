@@ -26,7 +26,7 @@ AI Engineer • Full Stack Developer • UI/UX Designer
 - Three.JS
 - Illustrator
 - Photoshop
-- 
+- HTML
 
 ---
 
